@@ -22,7 +22,8 @@ We use GitHub Codespaces so you can write and run code directly in your browser.
 | --- | --- | --- | --- |
 | 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting, control-flow essentials | [Link to lectures](./lectures/week-01) | None currently |
 | 2 | Complex Data Types (List, Tuple, Set and Dict), Helper Functions and Loops | [Link to /lectures](./lectures/week-02) | None currently |
-| 3 | [Topic Name] | [Link to /lectures] | [Link to /assignments] |
+| 3 | Functions & Lambda | [Link to /lectures](./lectures/week-03) | None Currently |
+| 4 | Object Oriented Programming | [Link to /lectures](./lectures/week-04) | None Yet |
 
 ## Grading & Submission
 
