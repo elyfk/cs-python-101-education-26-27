@@ -8,6 +8,8 @@ __pycache__/
 venv/
 env/
 .env/
+.vscode/
+.venv/
 
 # Manim & Manim-Slides Build Outputs
 media/
