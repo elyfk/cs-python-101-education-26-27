@@ -5,7 +5,7 @@ Welcome to the official repository for **Python 101**, hosted jointly by the MET
 ## Course Overview
 
 * **Instructor(s):** [@taglukahmet](https://github.com/taglukahmet)
-* **Duration:** 7 Weeks (5 + 2)
+* **Duration:** 6 Weeks (4 + 2)
 * **Prerequisites:** None required, this education is completely beginner-centred.
 
 ## How to Start Coding (Zero Installation)
@@ -14,17 +14,23 @@ We use GitHub Codespaces so you can write and run code directly in your browser.
 1. Click the **Code** button (the blue button at the top).
 2. Click the **Codespaces** tab.
 3. Click **Create codespace on main**.
-4. Wait 30 seconds for your cloud computer to boot up. You are ready to code!
+4. Wait max 2 mins for your cloud computer to boot up. You are ready to code!
 
 ## Syllabus
 
-| Week | Topic | Materials | Assignment |
-| --- | --- | --- | --- |
-| 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting, control-flow essentials | [Link to lectures](./lectures/week-01) | None currently |
-| 2 | Complex Data Types (List, Tuple, Set and Dict), Helper Functions and Loops | [Link to /lectures](./lectures/week-02) | None currently |
-| 3 | Functions & Lambda | [Link to /lectures](./lectures/week-03) | None Currently |
-| 4 | Object Oriented Programming | [Link to /lectures](./lectures/week-04) | None Yet |
+| Week | Topic | Materials |
+| --- | --- | --- |
+| 1 | Coding & Python Introduction, Variables, Basic I/O, Primitive Data Types & Type Casting, control-flow essentials | [Link to lectures](./lectures/week-01) |
+| 2 | Complex Data Types (List, Tuple, Set and Dict), Helper Functions and Loops | [Link to /lectures](./lectures/week-02) |
+| 3 | Functions & Lambda | [Link to /lectures](./lectures/week-03) |
+| 4 | Object Oriented Programming | [Link to /lectures](./lectures/week-04) | 
 
-## Grading & Submission
+## Downloading Python
 
-Assignments are submitted by pushing your code to your private repository provided by GitHub Classroom.
+İf you haven't downloaded Python yet to your computer, or just want a new local environment to the repo, I got you. check the `setup/` folder. 
+
+### For Windows
+If you are using windows, look for the **.bat** files. `setup_global_pc.bat` file downloads Python to your whole computer while `setup_repo_local.bat` file downloads Python only within the repo.
+
+### For Linux and Mac
+If you are using linux or mac, look for the **.sh** files. `setup_global_pc.sh` file downloads Python to your whole computer while `setup_repo_local.sh` file downloads Python only within the repo. For linux, if you are having problems, try to run it on the terminal.
